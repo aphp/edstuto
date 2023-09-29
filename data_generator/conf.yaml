@@ -1,0 +1,20 @@
+t_end: "2025-12-01"
+max_stay_duration: 20
+epidemic_duration_months: 72
+list_flu_cim10:
+  - "J09"
+  - "J10"
+  - "J11"
+list_divoc_cim10:
+  - "U013401"
+  - "U013402"
+  - "U013403"
+list_random_cim10:
+  - "B019"
+  - "V9544"
+  - "U0715"
+list_hospital:
+  - "Clinique L.Pasteur"
+  - "GHU A.Fleming"
+  - "Hopital M.Bres"
+  - "Centre F.Sinoussi"

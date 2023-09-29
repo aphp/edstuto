@@ -1,0 +1,11 @@
+.idea/
+**/**/.ipynb_checkpoints/
+.ipynb_checkpoints
+**/metastore_db/
+**/__pycache__/
+**/derby.log
+.DS_Store
+*.egg-info/
+.vscode
+venv/
+.venv/
